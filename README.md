@@ -1,0 +1,1 @@
+Se inicio maquetadom, falta agregar funcionalidad con javascript
